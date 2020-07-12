@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning Flutter :bird:
 - 💬 Ask me about **Python, Flutter, REST APIs, Git**
 - 📫 How to reach me: [click here](https://www.amanzishan.me)
-- ⚡ Fun fact: I have friends.
+- ⚡ Fun fact: I love food.
 
