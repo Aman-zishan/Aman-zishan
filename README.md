@@ -11,5 +11,8 @@
 - ⚡ Fun fact: I love food still i'm skinny.
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
