@@ -10,7 +10,7 @@
 - 📫 How to reach me: [click here](https://www.amanzishan.me)
 - ⚡ Fun fact: I love food still i'm skinny.
 
-### Weekly development breakdown
+#### Weekly development breakdown
 
 <!--START_SECTION:waka-->
 ```text
