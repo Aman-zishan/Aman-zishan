@@ -5,7 +5,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Aman-zishan&count_private=true&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-zishan)](https://github.com/Aman-zishan)
+
 
 
 - 🔭 I’m currently working on **web development** [@HyperGO](https://www.hypergo.in)
