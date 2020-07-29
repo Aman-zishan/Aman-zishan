@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Flutter :bird:
 - 💬 Ask me about **Python, Flutter, REST APIs, Git**
 - 📫 How to reach me: [click here](https://www.amanzishan.me)
-- ⚡ Fun fact: I love food still i'm skinny.
+- ⚡ ML enthusiast
 
 #### :bar_chart: Weekly development breakdown
 
