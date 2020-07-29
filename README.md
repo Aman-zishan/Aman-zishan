@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on **web development** [@HyperGO](https://www.hypergo.in)
+- 🔭 Community evangelist @Blockstack
 - 🌱 I’m currently learning Flutter :bird:
 - 💬 Ask me about **Python, Flutter, REST APIs, Git**
 - 📫 How to reach me: [click here](https://www.amanzishan.me)
