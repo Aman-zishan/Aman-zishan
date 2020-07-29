@@ -8,7 +8,7 @@
 
 
 
-- 🔭 Community evangelist @Blockstack
+- 🔭 Community evangelist [@Blockstack](https://www.blockstack.org/)
 - 🌱 I’m currently learning Flutter :bird:
 - 💬 Ask me about **Python, Flutter, REST APIs, Git**
 - 📫 How to reach me: [click here](https://www.amanzishan.me)
