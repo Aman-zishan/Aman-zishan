@@ -26,5 +26,5 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/Aman-zishan.gif?z=6)](https://github.com/Aman-zishan)
+[![GitHub Game of Life](https://github4life.herokuapp.com/Aman-zishan.gif?z=6)](https://github.com/don-k-jacob)
 
