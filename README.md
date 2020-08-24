@@ -14,6 +14,15 @@
 - 📫 How to reach me: [click here](https://www.amanzishan.me)
 - ⚡ ML enthusiast
 
+#### My projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=textextractor2.0)](https://github.com/Aman-zishan/textextractor2.0)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=DocScanner)](https://github.com/Aman-zishan/DocScanner)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=cmsDapp)](https://github.com/Aman-zishan/cmsDapp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=BlackBoard)](https://github.com/Aman-zishan/BlackBoard)
+
+
+
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
