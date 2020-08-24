@@ -35,5 +35,8 @@ C++          0 secs          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-zishan&layout=compact)](https://github.com/Aman-zishan)
+
+
 [![GitHub Game of Life](https://github4life.herokuapp.com/Aman-zishan.gif?z=6)](https://github.com/Aman-zishan)
 
