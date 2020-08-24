@@ -16,10 +16,10 @@
 
 #### My projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=textextractor2.0)](https://github.com/Aman-zishan/textextractor2.0)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=DocScanner)](https://github.com/Aman-zishan/DocScanner)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=cmsDapp)](https://github.com/Aman-zishan/cmsDapp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=BlackBoard)](https://github.com/Aman-zishan/BlackBoard)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=textextractor2.0&theme=dark)](https://github.com/Aman-zishan/textextractor2.0)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=DocScanner&theme=dark)](https://github.com/Aman-zishan/DocScanner)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=cmsDapp&theme=dark)](https://github.com/Aman-zishan/cmsDapp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=BlackBoard&theme=dark)](https://github.com/Aman-zishan/BlackBoard)
 
 
 
@@ -35,7 +35,7 @@ C++          0 secs          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-zishan&layout=compact)](https://github.com/Aman-zishan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-zishan&layout=compact&theme=dark)](https://github.com/Aman-zishan)
 
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/Aman-zishan.gif?z=6)](https://github.com/Aman-zishan)
