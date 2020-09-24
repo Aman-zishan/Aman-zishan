@@ -27,7 +27,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-HTML   2 hrs 3 mins    █████████████████████████   100.00 % 
+HTML   4 hrs 13 mins   ████████████████████████▓   98.22 % 
+CSS    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 ```
 <!--END_SECTION:waka-->
 
