@@ -22,7 +22,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=BlackBoard&theme=dark)](https://github.com/Aman-zishan/BlackBoard)
 
 
-
+<!--
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
@@ -32,6 +32,7 @@ CSS      1 hr 17 mins    ████████░░░░░░░░░░�
 Python   31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 % 
 ```
 <!--END_SECTION:waka-->
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-zishan&layout=compact&theme=dark)](https://github.com/Aman-zishan)
 
