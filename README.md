@@ -50,5 +50,5 @@ YAML         1 min           ░░░░░░░░░░░░░░░░░
 ![](https://github-readme-stats.vercel.app/api?username=Aman-zishan&count_private=true&theme=dark&show_icons=true&include_all_commits=true)
 
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/Aman-zishan.gif?z=6)](https://github.com/Aman-zishan)
+
 
