@@ -20,7 +20,6 @@
 
 - 📫 How to reach me **amanzishan.az@gmail.com**
 
-- ⚡ Fun fact **I'm doing my degree in CUSAT :")**
 
 
 
