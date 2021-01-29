@@ -37,9 +37,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Dart         54 mins         █████████████████████▓░░░   86.72 % 
-Groovy       5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-YAML         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
