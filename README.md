@@ -37,7 +37,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Dart   2 hrs 50 mins   █████████████████████████   100.00 % 
+Dart     2 hrs 50 mins   ███████████████████░░░░░░   75.53 % 
+HTML     55 mins         ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
 ```
 <!--END_SECTION:waka-->
 
