@@ -30,7 +30,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=textextractor2.0&theme=dark)](https://github.com/Aman-zishan/textextractor2.0)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=DocScanner&theme=dark)](https://github.com/Aman-zishan/DocScanner)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=textextractor&theme=dark)](https://github.com/Aman-zishan/textextractor)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=BlackBoard&theme=dark)](https://github.com/Aman-zishan/BlackBoard)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=palliative-care-clinic&theme=dark)](https://github.com/Aman-zishan/palliative-care-clinic)
 
 
 #### :bar_chart: Weekly development breakdown
