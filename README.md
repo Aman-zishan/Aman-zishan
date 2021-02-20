@@ -39,6 +39,8 @@
 
 #### :bar_chart: Weekly development breakdown
 
+<div align="center">
+
 <!--START_SECTION:waka-->
 ```text
 Dart         8 hrs 13 mins   ██████████████████████▒░░   89.52 % 
@@ -46,6 +48,8 @@ XML          37 mins         █▓░░░░░░░░░░░░░░░
 YAML         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 ```
 <!--END_SECTION:waka-->
+
+</div>
 
 <div align="center">
   
