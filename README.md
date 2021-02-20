@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Python, Flutter and git**
 
-- 📫 How to reach me **amanzishan.az@gmail.com**
+- 📫 Reach me here **amanzishan.az@gmail.com**
 
 
 
