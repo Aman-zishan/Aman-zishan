@@ -43,9 +43,9 @@ YAML         19 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Aman-zishan&count_private=true&theme=dark&show_icons=true&include_all_commits=true)
-
+</div>
 
 
 
