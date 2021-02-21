@@ -10,7 +10,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aman-zishan&label=Profile%20views&color=0e75b6&style=flat" alt="aman-zishan" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman-zishan" alt="aman-zishan" /></a> </p>
+<!--
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman-zishan" alt="aman-zishan" /></a> </p> -->
+
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=Aman-zishan&count_private=true&theme=dark&show_icons=true&include_all_commits=true)
+
+</div>
 
 - 🔭 I’m currently working on [DocScanner](https://github.com/Aman-zishan/DocScanner)
 
@@ -53,11 +60,7 @@ YAML       19 mins         ▓░░░░░░░░░░░░░░░░�
 
 </div>
 
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=Aman-zishan&count_private=true&theme=dark&show_icons=true&include_all_commits=true)
 
-</div>
 
 
 
