@@ -19,7 +19,7 @@
 
 </div>
 
-- 🔭 I’m currently working on [DocScanner](https://github.com/Aman-zishan/DocScanner)
+- 🔭 I’m currently working on [DocScanner](https://github.com/Aman-zishan/DocScanner) & [InTheaters](https://github.com/Aman-zishan/InTheatre)
 
 - 🌱 I’m currently learning **Flutter, Django**
 
