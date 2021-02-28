@@ -50,9 +50,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Dart         1 hr 44 mins    ████████████▓░░░░░░░░░░░░   50.10 % 
-Python       1 hr 23 mins    ██████████░░░░░░░░░░░░░░░   39.98 % 
-Markdown     20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Python   53 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
