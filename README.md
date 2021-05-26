@@ -20,7 +20,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **Flutter, Django**
+- 🌱 I’m currently learning **Flutter, Django, Node.js**
 
 - 💬 Ask me about **Python, Flutter and git**
 
