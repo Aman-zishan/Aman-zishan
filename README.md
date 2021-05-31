@@ -5,7 +5,7 @@
 **Aman-zishan/Aman-zishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-![Desktop - 1](https://user-images.githubusercontent.com/55238388/120215866-e2518700-c253-11eb-9dcd-c5edf1ec68d6.png)
+![Desktop - 1 (1)](https://user-images.githubusercontent.com/55238388/120219106-52faa280-c258-11eb-881b-f68df4583350.png)
 
 <!--
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman-zishan" alt="aman-zishan" /></a> </p> -->
