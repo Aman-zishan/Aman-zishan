@@ -1,14 +1,11 @@
 
 
+
 <!--
 **Aman-zishan/Aman-zishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-
-<h1 align="center">Hello folks! <img src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="2.5%" width="2.5%"><br>I am Aman Zishan</h1>
-<h3 align="center">Developer</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aman-zishan&label=Profile%20views&color=0e75b6&style=flat" alt="aman-zishan" /> </p>
+![Desktop - 1](https://user-images.githubusercontent.com/55238388/120215866-e2518700-c253-11eb-9dcd-c5edf1ec68d6.png)
 
 <!--
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman-zishan" alt="aman-zishan" /></a> </p> -->
@@ -24,14 +21,16 @@
 
 - 💬 Ask me about **Python, Flutter and git**
 
-- 📫 Reach me here **amanzishan.az@gmail.com**
+- 👩🏻‍💻 Working as a flutter developer at Indic Law
+
+- 🛠 Getting myself into MERN stack. Trying out react.js and node.js in my spare time.
 
 
 
 
 
 
-#### Some of my projects
+## Some of my projects
 
 <div align="center">
 
@@ -41,6 +40,21 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=palliative-care-clinic&theme=dark)](https://github.com/Aman-zishan/palliative-care-clinic)
 
 </div>
+
+
+
+  <p align="center">
+
+  <p align="center">
+    <a href="https://twitter.com/zishanaman" alt="Twitter"><img src="https://user-images.githubusercontent.com/55238388/120218223-0793c480-c257-11eb-9be6-06ea73b01430.png"></a>
+    <a href="https://www.linkedin.com/in/aman-zishan/" alt="Linkedin"><img src="https://user-images.githubusercontent.com/55238388/120218464-65c0a780-c257-11eb-9b12-3c14e8278bf5.png"></a>
+    <a href="mailto:amanzishan.az@gmail.com" alt="Contact me"><img src="https://user-images.githubusercontent.com/55238388/120218600-9d2f5400-c257-11eb-93d6-92740f5ca780.png"></a>
+    <a href="https://youtube.com/channel/UCIe6F1qZLZp1ON84Mv6XHSQ" alt="My site"><img src="https://user-images.githubusercontent.com/55238388/120218709-c8b23e80-c257-11eb-823d-b7260f89374e.png"></a>
+  </p>
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aman-zishan&label=Profile%20views&color=0e75b6&style=flat" alt="aman-zishan" /> </p>
+
 
 
 
