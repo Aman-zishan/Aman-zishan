@@ -42,20 +42,8 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-661291%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 293 Contributions in the Year 2021
- > 
-> 📦 284.9 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 71 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -63,18 +51,6 @@
 🌆 Daytime    345 commits    ██████████░░░░░░░░░░░░░░░   41.12% 
 🌃 Evening    389 commits    ███████████░░░░░░░░░░░░░░   46.36% 
 🌙 Night      30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.58%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       155 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.47% 
-Tuesday      141 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.81% 
-Wednesday    99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.8% 
-Thursday     88 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.49% 
-Friday       153 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.24% 
-Saturday     84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.01% 
-Sunday       119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.18%
 
 ```
 
@@ -109,10 +85,6 @@ CSS                      6 repos             ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Aman-zishan/Aman-zishan/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
