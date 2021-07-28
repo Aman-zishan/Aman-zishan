@@ -26,5 +26,6 @@ jobs:
       - uses: Platane/snk@v0.0.18
         with:
           github_user_name: aman-zishan
+          gif_out_path: ./github-contribution-grid-snake.gif
 
 
