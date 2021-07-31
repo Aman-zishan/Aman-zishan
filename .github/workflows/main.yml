@@ -26,7 +26,7 @@ jobs:
       - uses: Platane/snk@v0.0.18
         with:
           github_user_name: aman-zishan
-          gif_out_path: dist/github-snake.gif
+          svg_out_path: dist/github-snake.svg
           
       - name: push github-contribution-grid-snake.gif to the output branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
