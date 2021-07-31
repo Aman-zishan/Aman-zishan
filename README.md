@@ -91,7 +91,7 @@ CSS                      7 repos             ███░░░░░░░░�
 
   <p align="center">
   
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/aman-zishan/aman-zishan/output/github-contribution-grid-snake.gif)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/Aman-zishan/Aman-zishan/output/github-snake.svg)
 
   <p align="center">
     <a href="https://twitter.com/zishanaman" alt="Twitter"><img src="https://user-images.githubusercontent.com/55238388/120218223-0793c480-c257-11eb-9be6-06ea73b01430.png"></a>
