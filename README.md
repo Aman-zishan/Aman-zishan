@@ -17,11 +17,11 @@
 </div>
 
 
-- 🌱 I’m currently learning **Flutter, Django, Node.js**
+- 🌱 I’m currently learning **Flutter, Django, Node.js, Solidity**
 
 - 💬 Ask me about **Python, Flutter and git**
 
-- 👩🏻‍💻 Working as a flutter developer at Indic Law
+- 👩🏻‍💻 Working as a frontend Developer at [CACHE](https://www.cache.gold)
 
 - 🛠 Getting myself into MERN stack. Trying out react.js and node.js in my spare time.
 
