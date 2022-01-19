@@ -42,8 +42,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-556%20hrs%2016%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -61,10 +59,10 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 mins              █████████████████████████   100.0%
+TypeScript               3 hrs 54 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.0%
+VS Code                  3 hrs 54 mins       █████████████████████████   100.0%
 
 ```
 
@@ -81,7 +79,7 @@ HTML                     6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/01/2022
+ Last Updated on 19/01/2022
 <!--END_SECTION:waka-->
 
 
