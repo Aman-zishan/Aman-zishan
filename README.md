@@ -34,7 +34,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-658%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-658%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -53,11 +53,10 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               13 mins             ███████████████████████░░   94.99% 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.01%
+TypeScript               13 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.0%
+VS Code                  13 mins             █████████████████████████   100.0%
 
 ```
 
@@ -74,7 +73,7 @@ HTML                     6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2022 18:55:51 UTC
+ Last Updated on 11/05/2022 18:55:32 UTC
 <!--END_SECTION:waka-->
 
 
