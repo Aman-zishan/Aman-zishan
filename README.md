@@ -34,7 +34,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-671%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -53,13 +53,10 @@
 
 ```text
 💬 Programming Languages: 
-Dart                     1 hr 6 mins         ████████████████████████░   97.94% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -76,7 +73,7 @@ TypeScript               7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2022 18:50:09 UTC
+ Last Updated on 05/06/2022 18:50:44 UTC
 <!--END_SECTION:waka-->
 
 
