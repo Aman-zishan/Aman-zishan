@@ -84,7 +84,7 @@ CSS                      6 repos             ██░░░░░░░░░�
 
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fff98q46p622hfy2d3g2o0f60&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fff98q46p622hfy2d3g2o0f60&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
   ![github contribution grid snake animation](https://raw.githubusercontent.com/Aman-zishan/Aman-zishan/output/github-snake.svg)
 
