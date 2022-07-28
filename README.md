@@ -80,6 +80,12 @@ CSS                      6 repos             ██░░░░░░░░░�
 
   <p align="center">
   
+  ## Spotify Playing 🎧
+
+<br>
+
+[<img src="https://github-spotify-ui-5mpf7hrlt.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/	fff98q46p622hfy2d3g2o0f60)
+  
   ![github contribution grid snake animation](https://raw.githubusercontent.com/Aman-zishan/Aman-zishan/output/github-snake.svg)
 
   <p align="center">
