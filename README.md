@@ -62,17 +62,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               19 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Dart                     14 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.42% 
-Python                   14 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.42% 
-TypeScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89%
+JavaScript               20 repos            ██████░░░░░░░░░░░░░░░░░░░   25.97% 
+Dart                     14 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Python                   14 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+TypeScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
+CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.79%
 
 ```
 
 
 
- Last Updated on 27/08/2022 18:55:17 UTC
+ Last Updated on 28/08/2022 18:51:35 UTC
 <!--END_SECTION:waka-->
 
 
