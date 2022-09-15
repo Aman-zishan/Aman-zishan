@@ -37,6 +37,28 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.68% 
+🌆 Daytime    150 commits    █████████░░░░░░░░░░░░░░░░   39.47% 
+🌃 Evening    138 commits    █████████░░░░░░░░░░░░░░░░   36.32% 
+🌙 Night      40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.53%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -50,7 +72,7 @@ CSS                      6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2022 18:58:14 UTC
+ Last Updated on 15/09/2022 18:57:04 UTC
 <!--END_SECTION:waka-->
 
 
