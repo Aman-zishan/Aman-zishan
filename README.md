@@ -4,8 +4,7 @@
 <!--
 **Aman-zishan/Aman-zishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-![github-header-image (2)](https://user-images.githubusercontent.com/55238388/181916088-5716ef92-1b18-4785-b1e3-7150de33f290.png)
-
+![Mask group](https://user-images.githubusercontent.com/55238388/198835024-7b28ab40-4869-4c1c-a9c5-29d3f9c20c92.png)
 <!--
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman-zishan" alt="aman-zishan" /></a> </p> -->
 
