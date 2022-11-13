@@ -51,10 +51,10 @@
 
 ```text
 💬 Programming Languages: 
-Python                   56 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  56 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -71,7 +71,7 @@ CSS                      6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2022 18:54:17 UTC
+ Last Updated on 13/11/2022 18:51:29 UTC
 <!--END_SECTION:waka-->
 
 
