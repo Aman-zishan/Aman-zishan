@@ -34,7 +34,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-689%20hrs%206%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -71,7 +71,7 @@ CSS                      6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/01/2023 18:48:18 UTC
+ Last Updated on 09/01/2023 18:50:41 UTC
 <!--END_SECTION:waka-->
 
 
