@@ -34,7 +34,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-697%20hrs%2049%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.9%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -71,7 +71,7 @@ CSS                      6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2023 18:36:42 UTC
+ Last Updated on 11/03/2023 18:35:08 UTC
 <!--END_SECTION:waka-->
 
 
