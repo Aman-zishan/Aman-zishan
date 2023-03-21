@@ -50,10 +50,10 @@
 
 ```text
 💬 Programming Languages: 
-CSV                      5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -69,7 +69,7 @@ CSS                      6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2023 18:38:32 UTC
+ Last Updated on 21/03/2023 18:35:41 UTC
 <!--END_SECTION:waka-->
 
 
