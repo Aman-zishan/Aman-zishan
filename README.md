@@ -15,9 +15,9 @@
 </div>
 
 
-- 🌱 I’m currently learning **Solidity, React, Web3**
+- 🌱 I’m currently learning **Solidity, React, Web3, Clarity**
 
-- 👩🏻‍💻 Working as a frontend Developer at [CACHE](https://www.cache.gold)
+- 👩🏻‍💻 Working as a frontend Developer at [Tariala DeFi]([https://www.cache.gold](https://twitter.com/TarialaDeFi))
 
 
 ## Some of my projects
@@ -25,7 +25,7 @@
 <div align="center">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=textextractor2.0&theme=dark)](https://github.com/Aman-zishan/textextractor2.0)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=DocScanner&theme=dark)](https://github.com/Aman-zishan/DocScanner)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=SuperPay&theme=dark)](https://github.com/Aman-zishan/SuperPay)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=textextractor&theme=dark)](https://github.com/Aman-zishan/textextractor)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=palliative-care-clinic&theme=dark)](https://github.com/Aman-zishan/palliative-care-clinic)
 
