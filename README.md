@@ -50,10 +50,10 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -69,7 +69,7 @@ CSS                      6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/04/2023 18:34:25 UTC
+ Last Updated on 01/05/2023 18:35:40 UTC
 <!--END_SECTION:waka-->
 
 
