@@ -17,7 +17,10 @@
 
 - 🌱 I’m currently learning **Solidity, React, Web3, Clarity**
 
-- 👩🏻‍💻 Working as a frontend Developer at [Tariala DeFi]([https://www.cache.gold](https://twitter.com/TarialaDeFi))
+- 👩🏻‍💻 Working as a full stack Developer at [Tariala DeFi]((https://twitter.com/TarialaDeFi))
+
+## Programming Languages
+
 
 
 ## Some of my projects
