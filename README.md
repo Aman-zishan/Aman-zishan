@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [TaralDefi](https://www.tariala.com/)
 
-- 🌱 I’m currently learning **Backend frameworks**
+- 🌱 I’m currently learning **Backend frameworks and go language**
 
 - 💬 Ask me about **react, clarity, solidity**
 
