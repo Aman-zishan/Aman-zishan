@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A passionate web2/web3 developer from India.</h3>
 
-
-- 🔭 I’m currently working on [TaralDefi](https://www.tariala.com/)
-
 - 💬 Ask me about **react, clarity, solidity**
 
 - 📫 How to reach me **amanzishan.az@gmail.com**
